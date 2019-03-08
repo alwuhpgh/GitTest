@@ -1,0 +1,56 @@
+411327198806182019
+
+
+
+          let aa = [
+            'http://www.hangge.com/blog/images/logo.png',
+            'http://tpc.googlesyndication.com/daca_images/simgad/9929231403971539868',
+            'http://tpc.googlesyndication.com/daca_images/simgad/11791723879145827043',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576376&di=cf99ee635b6ab0c11c17f0bc0b02973c&imgtype=0&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F8601a18b87d6277fca09b19924381f30e924fc7c.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576375&di=036c94ab0db3ed8e6ee81c6c1367d20b&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F9345d688d43f8794bbd3d889de1b0ef41bd53a6c.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576375&di=036c94ab0db3ed8e6ee81c6c1367d20b&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F9345d688d43f8794bbd3d889de1b0ef41bd53a6c.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576375&di=df8ac9750710d6d7150b6b5d05961432&imgtype=0&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F024f78f0f736afc3b5292accbf19ebc4b7451275.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576375&di=1c42d60d5060ae047529bfee487bf953&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F730e0cf3d7ca7bcb6a172486b2096b63f624a82f.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576375&di=67cb37100fbc383ad94af28422359f39&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F10dfa9ec8a136327f216788d9d8fa0ec09fac791.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576375&di=c7359d30c4d1f5b896c0babc6eb9765a&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fb64543a98226cffc49721710b5014a90f603ea3c.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576374&di=e3e3a1a06371916af321845a916850ce&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fc9fcc3cec3fdfc03777b0d1ad83f8794a4c22615.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576374&di=3e5e0730b90a7e39fb0a508ab6ca6eb8&imgtype=0&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fd6ca7bcb0a46f21fca6fafecfa246b600c33ae32.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576374&di=839c9cad50ca21eb7dbe9147b8fc4083&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F94cad1c8a786c9171cc12b9dc53d70cf3ac75757.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254576374&di=c42bc9662a8604122648d304725fefd2&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fb7fd5266d01609242417d4a2d80735fae6cd345c.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254682092&di=946d6f63e1ce1fbaee0fca3aa5f6fcf0&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F63d0f703918fa0ec53d199aa2a9759ee3d6ddb07.jpg',
+            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527254682092&di=96848178d70b6e16a56cb06facc59edb&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F4034970a304e251f7665195fab86c9177e3e5383.jpg',
+          ];
+
+
+https://shalldie.gallery.vsassets.io/_apis/public/gallery/publisher/shalldie/extension/background/1.1.18/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage
+
+
+
+:-1: Multiple commands produce '/Users/liliangli/Library/Developer/Xcode/DerivedData/ShanshanNewEnergy-ahtqwdevlyjqbkbwwibvotmnmcnn/Build/Products/Debug-iphoneos/ShanshanNewEnergy.app':
+1) Target 'ShanshanNewEnergy' has create directory command with output '/Users/liliangli/Library/Developer/Xcode/DerivedData/ShanshanNewEnergy-ahtqwdevlyjqbkbwwibvotmnmcnn/Build/Products/Debug-iphoneos/ShanshanNewEnergy.app'
+2) That command depends on command in Target 'ShanshanNewEnergy': script phase “[CP] Copy Pods Resources”
+
+${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}
+
+
+/data/user/0/com.wicresoft.siemenspoc/files/_update/FlG_YhQGIMFODMhlh0WrLRNmwN4t/index.bundlejs
+
+
+
+path: '/storage/emulated/0/temp.jpg',
+
+名称：在 App Store 中显示的名称。名称长度不能超过 30 个字符。
+副标题（可选）：App 的一份摘要，它会显示在 iOS 11 或更高版本的 App Store 中的 App 名称下方。
+隐私政策网址：链接至您的隐私政策的网址 (URL)。所有 App 都必须提供隐私政策。
+宣传文本：宣传文本可使您在无需提交更新请求的情况下，通知 App Store 访客当前最新的 App 功能。如果客户的设备运行 iOS 11 或更高版本，以及 macOS 10.13 或更高版本，那么在 App Store 中，宣传文本会显示在您的 App 描述上方。
+描述：App 的描述，用以详细说明特性和功能
+关键词：添加一个或多个关键词以描述您的 App。关键词将使 App Store 搜索结果更加准确。
+技术支持网址(URL) ：App 技术支持信息网址(URL)。该网址(URL)将会在 App Store 中显示。
+版权：拥有您的 App 专有权的人员或实体的名称，前面是获得权利的年份（例如“2008 Acme Inc”）。
+
+xcodebuild archive -workspace HBuilder-Hello.xcworkspace -scheme HBuilder -configuration Realse  -archivePath /Users/liliangli/Desktop/out/HBuilder-Hello.xcarchive
+
+xcodebuild -exportArchive -archivePath /Users/liliangli/Desktop/out/HBuilder-Hello.xcarchive -exportOptionsPlist /Users/liliangli/Desktop/颐海/main.plist -exportPath /Users/liliangli/Desktop/out -allowProvisioningUpdates
+
+/Users/liliangli/Desktop/颐海/main.plist
+/Users/liliangli/Desktop/out
